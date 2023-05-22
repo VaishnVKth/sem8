@@ -1,10 +1,10 @@
 # SEM-8
 
 For HPC, on terminal:
-g++ filename.cpp -fopenmp  
-./a.out
+<br>g++ filename.cpp -fopenmp  
+<br>./a.out
 
 
-On colab:
-!pip install git+https://github.com/afnan47/cuda.git
-%load_ext nvcc_plugin
+<br>On colab:
+<br>!pip install git+https://github.com/afnan47/cuda.git
+<br>%load_ext nvcc_plugin
