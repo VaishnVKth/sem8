@@ -1,9 +1,3 @@
-/*
-  Windows does not support user defined reductions.
-  This program may not run on MVSC++ compilers for Windows.
-  Please use Linux Environment.[You can try using "windows subsystem for linux"]
-*/
-
 #include<iostream>
 #include<omp.h>
 
