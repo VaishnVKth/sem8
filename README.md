@@ -2,7 +2,7 @@
 
 For HPC, on terminal:
 <br>g++ filename.cpp -fopenmp  
-<br>./a.out
+./a.out
 
 
 <br>On colab:
