@@ -1,8 +1,8 @@
 # SEM-8
 
 For HPC, on terminal:
-<br>g++ filename.cpp -fopenmp  
-./a.out
+<br> g++ filename.cpp -lgomp -o filename 
+<br> ./filename
 
 
 <br>On colab:
